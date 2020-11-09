@@ -1,2 +1,2 @@
-# Trex2
-Trex
+# Trex
+The TREX game made in Javascript...
